@@ -1,0 +1,34 @@
+# Logs
+*.log
+logs/
+Maintenance_*.log
+Errors_*.log
+Report_*.txt
+
+# PowerShell
+*.ps1xml
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Reports
+reports/
+*.html
+*.pdf
+
+# Temp files
+temp/
+tmp/
+*.tmp
+
+# Configuration
+config.ini
+settings.json
