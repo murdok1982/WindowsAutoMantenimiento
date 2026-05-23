@@ -1,3 +1,4 @@
+. .\hispan_shield_guardian.ps1
 <#
 .SYNOPSIS
     Windows Optimization, Hardening, and Maintenance Script.
